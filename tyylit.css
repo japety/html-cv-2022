@@ -1,0 +1,38 @@
+
+/* 
+Author: japety
+*/
+
+body {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    background-color: yellow;
+  }
+
+  p {
+    color:green;
+    text-align: center;
+    font-size: medium;
+  }
+  
+  h1 {
+    color: green;
+    text-align: center;
+  }
+
+  h2 {
+    color: black;
+    text-align: center;
+  }
+
+  li {
+    color: blue;
+    font-size: large;
+    text-align: center;
+  }
+
+  
+
